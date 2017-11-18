@@ -164,4 +164,3 @@ else:
 			t.start()
 		t = MonitorThread()
 		t.start 
-volcano.closs(popo)
